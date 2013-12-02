@@ -25,6 +25,9 @@ gem 'jquery-rails'
 gem 'turbolinks'
 
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '3'
+gem 'backstretch-rails'
+gem 'font-awesome-sass'
+
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
